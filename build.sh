@@ -37,6 +37,7 @@ sudo apt-get install -y software-properties-common
 
 
 # install dependencies
+curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
 sudo apt-get install -y software-properties-common build-essential git unzip wget nodejs npm ntp cloud-utils
 
 # add node symlink if it doesn't exist
