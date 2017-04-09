@@ -12,13 +12,13 @@
     {
       "NODE_ENV"        : "production",
       "RPC_HOST"        : "localhost",
-      "RPC_PORT"        : "8000",
-      "LISTENING_PORT"  : "8000",
+      "RPC_PORT"        : "7000",
+      "LISTENING_PORT"  : "7000",
       "INSTANCE_NAME"   : "PICK_INSTANCE_NAME",
       "CONTACT_DETAILS" : "",
       "NETWORK_MODE"    : "main",
-      "WS_SERVER"       : "ws://liskstats.net:3000",
-      "WS_SECRET"       : "Go to https://lisk.chat and ask around",
+      "WS_SERVER"       : "ws://testnet-stats.liskwallet.net:3000",
+      "WS_SECRET"       : "da3ed6a45429278bac2666961289ca17ad86595d33b31037615d4b8,
       "IS_FORGING"      : "no",
       "VERBOSITY"       : 2
     }
